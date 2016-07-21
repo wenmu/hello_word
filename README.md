@@ -1,2 +1,3 @@
 # hello_word
-just test
+print("Hello XiaoZhang")
+#just test
