@@ -1,0 +1,7 @@
+
+domain:anyknew.com,
+domain:techbang.com,
+domain:hmxt.org,
+domain:poweriso.com,
+domain:doc.qt.io,
+domain:geeksforgeeks.org,

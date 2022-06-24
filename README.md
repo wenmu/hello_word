@@ -1,4 +1,5 @@
-# hello_word
-just test
+# v2ray路由
 
-first change!
+记录一下我的v2ray自定义的路由配置
+
+有些常用的网站
